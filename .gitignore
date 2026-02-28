@@ -1,0 +1,27 @@
+# === Fichiers générés par Optimiseur X ===
+Rapport_Optimisation.txt
+Annulation_Registre.csv
+
+# === Fichiers système Windows ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# === Fichiers temporaires ===
+*.tmp
+*.temp
+*.log
+*.bak
+~$*
+
+# === Éditeurs et IDE ===
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# === PowerShell ===
+*.pssc
+*.psrc
